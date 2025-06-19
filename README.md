@@ -2,6 +2,21 @@
 
 A new Flutter project.
 
+
+ # Features
+
+ Search: Search for news by keywords
+ Category Filters: Browse news by categories (e.g., Sports, Tech, Health)
+ Pull to Refresh
+ Detailed Article View
+ Responsive Design for mobile & tablet
+ Reusable Widgets & Clean Architecture
+ Error & Loading State Handling
+
+ # Screenshots
+ ![Screenshot 2025-06-19 093003](https://github.com/user-attachments/assets/e75725f2-03f0-429a-8f3f-d9671e3bcf82)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
